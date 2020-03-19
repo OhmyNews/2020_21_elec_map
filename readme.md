@@ -15,6 +15,7 @@ VW-Lab의 김승범 소장님의 깃허브(https://github.com/vuski/admdongkor) 
 * 속성중 SGG_1은 17개 광역시도 이름입니다.
 * 속성중 SGG_2는 253개 선거구명입니다. (예 : 서울특별시 종로구)
 * 속성중 SGG_3는 253개 선거구의 약칭명입니다. (예 : 서울 종로)
+* 지도에 오류 등 수정할 부분은 ljh@ohmynews.com으로 메일 부탁드립니다.
 
 + <a href="https://github.com/vuski/admdongkor/tree/master/ver2020xxxx_for%20update">대한민국 행정동 경계 파일 원본</a> 
 + <a href="http://info.nec.go.kr/">중앙선거관리위원회 선거통계시스템 선거구 및 읍면동 현황</a> 
