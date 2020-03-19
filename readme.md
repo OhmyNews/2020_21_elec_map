@@ -2,7 +2,9 @@
 
 ###  소개
 
-2020년 4월 15일 21대 국회의원 총선거 253개 지역구 지도입니다. VW-Lab의 김승범 소장님의 깃허브(https://github.com/vuski/admdongkor)의 행정동 경계 파일을 기본으로 253개 선거구로 dissolve한 것입니다. 행정동 경계 파일을 계속 업데이트해 주시는 김 소장님께 감사드립니다.
+2020년 4월 15일 21대 국회의원 총선거 253개 지역구 지도입니다. 
+
+VW-Lab의 김승범 소장님의 깃허브(https://github.com/vuski/admdongkor) 의 행정동 경계 파일을 기본으로 253개 선거구로 dissolve한 것입니다. 행정동 경계 파일을 계속 업데이트해 주시는 김 소장님께 감사드립니다.
 
 * geojson형식이며, 좌표계는 WGS84(EPSG:4326)입니다.
 * geojson 및 csv 파일 인코딩 형식은 UTF-8입니다.
@@ -15,7 +17,7 @@
 * 속성중 SGG_3는 253개 선거구의 약칭명입니다. (예 : 서울 종로)
 
 + <a href="https://github.com/vuski/admdongkor/tree/master/ver2020xxxx_for%20update">대한민국 행정동 경계 파일 원본</a> 
-+ <a href="선거구획정 현황 http://info.nec.go.kr/">중앙선거관리위원회 선거통계시스템 선거구 및 읍면동 현황</a> 
++ <a href="http://info.nec.go.kr/">중앙선거관리위원회 선거통계시스템 선거구 및 읍면동 현황</a> 
 
 #### 오마이뉴스가 만든 21대 총선 선거구 지도는 자유롭게 다운로드받아 사용하실 수 있습니다.
 
